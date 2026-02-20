@@ -124,3 +124,4 @@ plt.title('SAT degrees')
 plt.xlabel('Power Consumption')
 plt.ylabel('General Power')
 plt.show()
+
